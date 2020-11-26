@@ -1,4 +1,26 @@
 {
   "name": "md-links",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "description": "## Índice",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlgrisMarquez/SCL014-md-links.git"
+  },
+  "author": "Algris Marquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlgrisMarquez/SCL014-md-links/issues"
+  },
+  "homepage": "https://github.com/AlgrisMarquez/SCL014-md-links#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fetch": "^1.1.0"
+  }
 }
